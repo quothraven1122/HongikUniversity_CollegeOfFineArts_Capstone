@@ -2,6 +2,76 @@
   text-align: center;
 }
 
+/* App.css */
+body {
+  background-image: url("../public/res/main_bg.png"); /* 이미지 파일 경로로 설정 */
+  background-size: 100% 100%; /* 이미지를 화면 가로 및 세로에 맞게 늘림 */
+  background-repeat: no-repeat; /* 이미지 반복 없음 */
+  background-attachment: fixed; /* 이미지 스크롤 시 고정 (선택 사항) */
+}
+
+.cta-image {
+  width: 40%; /* 전체 레이아웃의 40% 크기로 조정 */
+  position: absolute;
+  top: 70%; /* 세로 기준 정중앙에서 위로 30% 위치 */
+  left: 50%; /* 가로 기준 정중앙 */
+  transform: translate(-50%, -50%);
+  /* 원하는 추가 스타일을 여기에 추가할 수 있습니다. */
+}
+
+.cta-txt-image1 {
+  width: 12%; /* 원하는 가로 크기로 조정 */
+  position: absolute;
+  top: 68%; /* 세로 기준 정중앙에서 위로 30% 위치 */
+  left: 35%; /* 가로 기준 정중앙 */
+}
+
+.cta-txt-image2 {
+  width: 12%; /* 원하는 가로 크기로 조정 */
+  position: absolute;
+  top: 68%; /* 세로 기준 정중앙에서 위로 30% 위치 */
+  left: 52%; /* 가로 기준 정중앙 */
+}
+
+.logo-image {
+  position: absolute; /* 로고 이미지를 절대 위치로 설정 */
+  top: 50%; /* 부모 요소의 세로 중앙에 위치 */
+  left: 50%; /* 부모 요소의 가로 중앙에 위치 */
+  transform: translate(-50%, 50%); /* 로고 이미지를 정확한 중앙으로 이동 */
+  padding-top: 10%; /* 하단으로부터 10% 패딩 */
+}
+
+/* .button-container 내부의 각 버튼 이미지와 텍스트를 가운데 정렬하는 코드 */
+.button-container {
+  display: flex;
+  margin-right: 10px; /* 버튼 간격 (조절 가능) */
+  text-align: center;
+}
+
+.button {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* 버튼 내의 요소들을 수직 가운데 정렬 */
+}
+.button-image {
+  width: 50%; /* 이미지의 가로 크기를 50%로 설정 */
+  max-width: 310px; /* 이미지의 최대 가로 크기 (조절 가능) */
+  height: auto; /* 세로 크기를 자동으로 조절하여 가로 세로 비율 유지 */
+  margin-right: 10px; /* 이미지 간격 조절 (원하는 값으로 변경 가능) */
+}
+
+.button-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-weight: bold;
+  opacity: 1;
+  width: 50%; /* 텍스트의 가로 크기를 50%로 설정 */
+  text-align: center; /* 텍스트를 수평 중앙 정렬 */
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
