@@ -4,10 +4,6 @@
 
 /* App.css */
 body {
-  background-image: url("../public/res/main_bg.png"); /* 이미지 파일 경로로 설정 */
-  background-size: 100% 100%; /* 이미지를 화면 가로 및 세로에 맞게 늘림 */
-  background-repeat: no-repeat; /* 이미지 반복 없음 */
-  background-attachment: fixed; /* 이미지 스크롤 시 고정 (선택 사항) */
 }
 
 .cta-image {
