@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# 홍익대학교 미술대학 졸업작품 웹페이지
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/d71bc2c1-ca96-4621-9490-07143667d630)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Concept
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/9e0581fb-e6f4-48e6-b535-11f6ab9fe4e5)
+[B735256.JihanShin.KTS.pdf](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/files/14468563/B735256.JihanShin.KTS.pdf)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Design
+https://www.figma.com/proto/E3eJwq4EKnscqjDJAetGSY/web-design?page-id=345%3A879&type=design&node-id=345-880&viewport=795%2C564%2C0.22&t=MP51p0d4ss1H7Zh3-1&scaling=contain&mode=design     
+프로토타입 비밀번호: aggressive
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 배포 링크
+https://ktricks.info/
 
-### `npm test`
+### 언어
+React
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 맡은 역할
+room2 페이지와 end 페이지 만들기
 
-### `npm run build`
+## 페이지 설명
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/d683af61-bea4-4432-be0a-cff372868b39)
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/03ae5d10-d0ba-4573-a215-0f9851d1798e)
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/59e864f1-4259-4bc5-a58a-75671bf7f865)
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/318e30ff-e03b-40b2-b829-106b6967c345)
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/fadfc1b8-e731-4b2c-981c-4526e6b9f886)
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/364032f8-f540-415b-9538-8fdc152fea64)
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/b545b357-f8f7-4ef8-9e84-580fea4476fd)
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/effb78c9-791f-4606-9304-701d213a507d)
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/7010eeb1-7901-40dc-8f1c-4896a40832d7)
+![image](https://github.com/quothraven1122/HongikUniversity_CollegeOfFineArts_Capstone/assets/102286920/a4d3410c-422b-4686-aa5b-737bffbf1b3e)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
